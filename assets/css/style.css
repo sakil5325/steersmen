@@ -396,7 +396,7 @@ section > .container.center {
 }
 
 #hero h1 {
-  margin: 0 0 20px 0;
+  margin: 0 0 40px 0;
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
@@ -657,7 +657,7 @@ section {
 .skills .progress .skill {
   padding: 0px;
   margin: 0 0 6px 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   display: block;
   font-weight: 600;
   font-family: "Montserrat", sans-serif;
