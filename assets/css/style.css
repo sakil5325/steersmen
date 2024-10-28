@@ -531,12 +531,6 @@ section {
   padding-bottom: 20px;
 }
 
-
-
-
-
-
-
 .what-we-do .icon-box {
   text-align: center;
   padding: 30px 20px;
@@ -2005,3 +1999,11 @@ section {
   vertical-align: middle;
 }
 
+/*--------------------------------------------------------------
+# Why us
+--------------------------------------------------------------*/
+.why-us .member p {
+  font-size: 16px;
+  color: #000;
+  font-style: normal;
+}
