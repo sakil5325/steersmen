@@ -2007,3 +2007,9 @@ section {
   color: #000;
   font-style: normal;
 }
+
+@media (max-width: 991px) {
+  #contact .info{
+    padding-bottom:25px;
+  }
+}
